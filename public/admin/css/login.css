@@ -1,0 +1,98 @@
+.login-container {
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.left-side {
+    background: #f8f9fa;
+    padding: 40px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.left-side .logo {
+    margin-bottom: 20px;
+}
+
+.left-side .intro-text h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.left-side .intro-text p {
+    font-size: 16px;
+    color: #666;
+}
+
+.right-side {
+    padding: 40px;
+    background: #fff;
+}
+.right-side p {
+    font-size: 16px;
+    color: #666;
+}
+.ibox-content {
+    width: 100%;
+}
+
+.form-group input {
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #e5e6e7;
+}
+
+.form-group select {
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #e5e6e7;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+    background-color: #1ab394;
+    border-color: #1ab394;
+}
+
+.btn-white {
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #e5e6e7;
+    color: #333;
+    background-color: #fff;
+}
+
+.mt-3 {
+    margin-top: 15px;
+}
+
+.mt-4 {
+    margin-top: 20px;
+}
+
+.help-block {
+    font-size: 14px;
+    color: #a94442;
+}
+
+.alert {
+    margin-bottom: 20px;
+}
+
+.min-vh-100 {
+    min-height: 100vh;
+}
